@@ -1,0 +1,29 @@
+{
+  "name": "amagi",
+  "version": "1.0.0",
+  "description": "a test",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pl2ern4/amagi.git"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  },
+  "keywords": [
+    "react",
+    "node",
+    "react-dom"
+  ],
+  "author": "Prerna",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/pl2ern4/amagi/issues"
+  },
+  "homepage": "https://github.com/pl2ern4/amagi#readme"
+}
